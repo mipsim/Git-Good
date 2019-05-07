@@ -1,2 +1,2 @@
-## Git-Good
+# Git Good
 CMPM 120 Assignment
